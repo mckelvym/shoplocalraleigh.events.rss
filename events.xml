@@ -5,7 +5,15 @@
     <link>https://shoplocalraleigh.org/events/</link>
     <description>Events from ShopLocalRaleigh</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 21:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 10:16:42 GMT</lastBuildDate>
+    <item>
+      <title>Snow White (Mar 22, 2026 - Mar 25, 2026 @ Fletcher Opera Theater)</title>
+      <link>https://shoplocalraleigh.org/events/raleigh-23/art/snow-white/?gde=2026-03-25</link>
+      <description>This production brings the wonder of the classic fairytale to life while depicting timeless themes. The Queen’s fixation on her magic mirror offers a gentle reflection on how easily we can lose ourselves in comparison, especially in a world surrounded by screens and distractions. Experience the return of Snow White, choreographed by Artistic Director/CEO Zalman Raffael and with an original Read more...</description>
+      <guid>https://shoplocalraleigh.org/events/raleigh-23/art/snow-white/?gde=2026-03-25</guid>
+      <pubDate>Wed, 25 Mar 2026 10:16:42 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://shoplocalraleigh.org/wp-content/uploads/2026/02/SW-2526-768x732.jpg"/>
+    </item>
     <item>
       <title>Business Owners Meetup (Cary, NC) (Apr 16, 2026 - Apr 16, 2026 @ Mellow Mushroom)</title>
       <link>https://shoplocalraleigh.org/events/cary/networking/business-owners-meetup-cary-nc/?gde=2026-04-16</link>
@@ -1765,14 +1773,6 @@
       <guid>https://shoplocalraleigh.org/events/raleigh-23/art/snow-white/?gde=2026-03-18</guid>
       <pubDate>Wed, 18 Mar 2026 13:17:16 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://shoplocalraleigh.org/wp-content/uploads/2026/02/SW-2526-768x732.jpg"/>
-    </item>
-    <item>
-      <title>Business Owners Meetup (Cary, NC) (Oct 18, 2029 - Oct 18, 2029 @ Mellow Mushroom)</title>
-      <link>https://shoplocalraleigh.org/events/cary/networking/business-owners-meetup-cary-nc/?gde=2029-10-18</link>
-      <description>Cary, NC – FREE Business Owners Meetup Alert! Attention Business Owners &amp; Entrepreneurs! Mark your calendar for the 3rd Thursday of each month! You’re invited to a Business Owners Meetup designed just for you! Connect with like-minded professionals, forge high-quality connections, and discover incredible marketing opportunities to take your business to the next level. Details: When: 3rd Thursday of each Read more...</description>
-      <guid>https://shoplocalraleigh.org/events/cary/networking/business-owners-meetup-cary-nc/?gde=2029-10-18</guid>
-      <pubDate>Tue, 17 Mar 2026 21:16:35 GMT</pubDate>
-      <enclosure type="image/jpeg" url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAABCAQAAACC0sM2AAAADklEQVR42mP8X88wLAAAK5IBgMYCdqgAAAAASUVORK5CYII="/>
     </item>
   </channel>
 </rss>
