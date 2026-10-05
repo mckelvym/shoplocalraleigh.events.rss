@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<rss version="2.0">
+<rss xmlns:ev="http://purl.org/rss/1.0/modules/event/" version="2.0">
   <channel>
     <title>ShopLocalRaleigh Events</title>
     <link>https://shoplocalraleigh.org/events/</link>
     <description>Events from ShopLocalRaleigh</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 4 Oct 2026 23:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 5 Oct 2026 10:19:03 GMT</lastBuildDate>
     <item>
       <title>Business Owners Meetup (Cary, NC) (Jan 17, 2030 - Jan 17, 2030 @ Mellow Mushroom)</title>
       <link>https://shoplocalraleigh.org/events/cary/networking/business-owners-meetup-cary-nc/?gde=2030-01-17</link>
